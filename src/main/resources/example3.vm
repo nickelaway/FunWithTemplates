@@ -1,0 +1,3 @@
+Price: $number.currency("123")
+
+$xml.read("http://www.w3schools.com/xml/note.xml").find("//heading")
